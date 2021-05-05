@@ -1,0 +1,156 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    font-family: Inter, sans-serif;
+    
+    
+}
+header{
+    padding-top: 40px;
+    background-color: #3c2e92;
+    height: 500px;
+    
+    
+    
+}
+h1{
+    font-size: 60px;
+    
+}
+
+.header-img{
+    display: inline-block;
+    margin-right: 650px;
+    margin-left: 50px;
+}
+.header-li{
+    display: inline-block;
+    text-decoration: none;
+    
+}
+.header-li li{
+    list-style-type: none;
+    display: inline-block;
+    margin-right: 35px;
+    text-align: left;
+}
+.header-li a:hover{
+    color: white;
+}
+.header-li a{
+    text-decoration: none;
+    color: #FFFFFFB3;
+}
+
+.header-buttons{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    min-height: 37px;
+    min-width: 137px;
+    border-radius: 35px;
+    
+    background-color: #624de3;
+    text-decoration: none;
+    color: white;
+    margin-left: 20px;
+}
+.header-buttons:hover{
+    background-color: #3c2e92;
+   border:#3c2e92 ;
+}
+.right-button{
+    border: 2px solid #624de3;
+    background-color: #3c2e92;
+
+}
+.first-header{
+    justify-content: center;
+    margin-top: 50px;
+    margin-left: 500px;
+    color: white;
+}
+.first-header span{
+    
+    color: #75e8f0;
+    font-size: 13px;
+}
+.first-header p{
+    color: #c1b8ff;
+    font-size: 18px;
+}
+#table{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.radio{
+    line-height: 40px;
+}
+.radio span{
+    color: #624de3;
+    
+}
+
+.radio a{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    min-height: 37px;
+    min-width: 240px;
+    border-radius: 35px;
+    background-color: #624de3;
+    text-decoration: none;
+    color: white;
+}
+
+#turst li{
+    list-style-type: none;
+    display: inline-block;
+    margin: 0 28px;
+     
+}
+#turst{
+    text-align: center;
+    height: 370px;
+}
+#turst h3{
+    font-size: 40px;
+    color: #00234b;
+}
+#turst p{
+    color: #525f7f;
+    margin-top: 20px;
+    margin-bottom: 80px;
+}
+#build{
+    background-color: #3c2e92;
+    height: 500px;
+    
+    
+    
+}
+#build h3{
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    padding-top: 150px;
+    margin-bottom: 45px;
+}
+#build a{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    min-height: 50px;
+    min-width: 240px;
+    border-radius: 35px;
+    border: 2px solid #75e8f0;
+    margin-left: 828px;
+    
+    text-decoration: none;
+    color: white;
+}
